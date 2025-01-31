@@ -23,7 +23,10 @@ The service will now be accessible at:
 ```
 http://localhost/
 ```
-
+### Run the docker image from the docker hub
+```
+docker run -d -p 80:80 haneeshdevops/simpletimeservice
+```
 ## Expected JSON Response
 ```json
 {
