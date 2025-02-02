@@ -1,5 +1,5 @@
 # SimpleTimeService
-# App Live: (haneesh.cloud) 
+# Application demo Live: [haneesh.cloud](http://haneesh.cloud)
 
 ## Overview
 SimpleTimeService is a lightweight Spring Boot microservice that returns the current timestamp and the IP address of the requester in JSON format.
